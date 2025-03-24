@@ -6,7 +6,6 @@ This repo is a solution to a technical challenge focused on building a **Basic S
 - HTML semantic
 - SCSS (compiled to CSS)
 - CSS BEM naming implemented
-- No frameworks used
 - Flexbox layout
 - Mobile first approach
 ---
